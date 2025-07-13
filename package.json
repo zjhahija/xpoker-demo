@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@bedrock-layout/use-media-query": "^1.1.6",
-    "@quicknode/sdk": "^1.1.5",
+    "@quicknode/sdk": "^2.3.0",
     "@react-three/drei": "^9.92.7",
     "@react-three/fiber": "^8.15.12",
     "@tanstack/react-table": "^8.10.7",
